@@ -6,14 +6,15 @@
 * Requests
 * Python
 
-## [Верстка страницы интернет магазина](https://github.com/SirPen9uin/my_projects/tree/main/QREASAN)
+## [Верстка страницы интернет магазина](https://github.com/SirPen9uin/my_projects/tree/main/qreasan)
 ### Задача: Сверстать страницу для презентации заказчику
 ### Стек:
 * HTML
 * CSS
 
-## [Верстка страницы блога](https://github.com/SirPen9uin/my_projects/tree/main/LifeBlog)
+## [Верстка страницы блога](https://github.com/SirPen9uin/my_projects/tree/main/life_blog)
 ### Задача: Сверстать страницу блога, включая версию для мобильных устройств
+### Размещено на github pages: [Блог о жизни](https://sirpen9uin.github.io/fpymq-diploma/)
 ### Стек: 
 * HTML
 * CSS
